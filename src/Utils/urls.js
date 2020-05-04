@@ -1,0 +1,6 @@
+export const dataUrl = 'https://api.covid19india.org/data.json'
+export const stateDistUrl = 'https://api.covid19india.org/state_district_wise.json'
+export const stateTestUrl = 'https://api.covid19india.org/state_test_data.json'
+export const notifUrl = 'https://api.covid19india.org/updatelog/log.json'
+export const rawUrl = 'https://api.covid19india.org/raw_data.json'
+export const zoneUrl = 'https://api.covid19india.org/zones.json'
