@@ -18,4 +18,4 @@ I am tracking the details of India.
     ### Android
     1. To start by teminal ```npx react-native run-android```>= 0.60 and ```react-native run-android```<0.60 
    
-#### [Demo](https://photos.app.goo.gl/J5T9YmuidfaL7wVb9)
+#### [Demo](https://photos.app.goo.gl/FKrzu992HKn72Ruv7)
